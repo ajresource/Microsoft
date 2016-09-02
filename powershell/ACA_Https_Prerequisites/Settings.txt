@@ -1,0 +1,4 @@
+StartDate		=	07/01/2008 
+EndDate			=	07/01/2020 
+indexserviceport	=	8803
+monitorport		=	8804
